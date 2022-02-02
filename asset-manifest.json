@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ayush/static/css/main.c6edfa24.css",
+    "main.js": "/ayush/static/js/main.933543e8.js",
+    "static/js/787.fceaaef4.chunk.js": "/ayush/static/js/787.fceaaef4.chunk.js",
+    "index.html": "/ayush/index.html",
+    "main.c6edfa24.css.map": "/ayush/static/css/main.c6edfa24.css.map",
+    "main.933543e8.js.map": "/ayush/static/js/main.933543e8.js.map",
+    "787.fceaaef4.chunk.js.map": "/ayush/static/js/787.fceaaef4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6edfa24.css",
+    "static/js/main.933543e8.js"
+  ]
+}
