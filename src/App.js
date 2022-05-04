@@ -58,7 +58,7 @@ function App() {
           </li>
           <li className="link">
             <a
-              href="https://www.linkedin.com/in/ayush-sharma-a456b2230/"
+              href="https://www.linkedin.com/in/ayush-sharma-6b5803235/"
               target="_blank"
             >
               <img
@@ -139,11 +139,15 @@ function App() {
             <li style={{ color: "white", opacity: "0.7" }}>
               {" "}
               <span style={{ color: "rgb(0, 255, 255)" }}>{">>"} </span>
-              Bootstrap
+              Node
             </li>
             <li style={{ color: "white", opacity: "0.7" }}>
               {" "}
-              <span style={{ color: "rgb(0, 255, 255)" }}>{">>"} </span>Redux
+              <span style={{ color: "rgb(0, 255, 255)" }}>{">>"} </span>MongoDB
+            </li>
+            <li style={{ color: "white", opacity: "0.7" }}>
+              {" "}
+              <span style={{ color: "rgb(0, 255, 255)" }}>{">>"} </span>Express
             </li>
           </ul>
         </div>
@@ -154,6 +158,26 @@ function App() {
             </span>
             Projects
           </h2>
+          <br />
+          <div className="card">
+            <h1>BlogWeb</h1>
+            <div className="card-2">
+              <p>
+              Created a Blog Web site in MERN stack with a login and register feature. In the project MongoDB is used for database and react for frontend , node for backend. In it the user can create their profile and can make their own blogs also can see other's blogs.
+              </p>
+              <br />
+              <p>
+                <span>React Js</span> <span>Node</span>{" "}
+                <span>Express</span>{" "}
+                <span>MongoDB</span>
+              </p>
+            </div>
+            <a href="https://github.com/ayush3160/BlogWeb" target="_blank">
+              <img src="./25231.png" />
+            </a>
+          </div>
+          <br />
+          <br />
           <br />
           <div className="card">
             <h1>BookStore</h1>
